@@ -1,0 +1,2 @@
+[-] User holde:1378 with hash E45A314C664D40A227F9540121D1A29D has been leaked
+[-] User adam:1290 with hash E45A314C664D40A227F9540121D1A29D has been leaked
